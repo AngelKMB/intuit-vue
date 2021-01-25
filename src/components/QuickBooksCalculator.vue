@@ -83,12 +83,11 @@ label {
   font-weight: 200;
 }
 
-
 .right-col {
   font-weight: bold;
 }
 
-.left-col input {
+.left-col input, .middle-col input {
   height: 30px;
 }
 
