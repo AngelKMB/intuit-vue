@@ -42,8 +42,8 @@ export default {
       let sum = parseInt(this.incomeFromSales) + parseInt(this.construction) + parseInt(this.commissions) + parseInt(this.otherIncome);
       if (isNaN(sum)) {
         sum = 0
-      } 
-      return sum
+      }
+      return  "£" + sum
     }
   }
 
