@@ -23,7 +23,7 @@ export default {
 .box{
     padding: 40px;
     background-color: #eceef1;
-    width: 80%;
+    width: 70%;
 }
 
 h2 {
