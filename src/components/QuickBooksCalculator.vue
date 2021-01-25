@@ -93,7 +93,7 @@ label {
 
 .right-col input {
   border: none;
-  height: 98px;
+  height: 100px;
   color: #fff;
   font-size: 60px;
   text-align: center;
